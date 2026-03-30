@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Documented config options
+
+## 2026-03-30
+- Pinned dependency versions for reproducibility
+- Improved error handling in edge cases
+- Bumped patch version
